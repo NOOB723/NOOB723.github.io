@@ -1,0 +1,13 @@
+body {
+    background-color: #1a1a1a;
+    color: white;
+    margin-left: 70px;
+}
+.image-container {
+    float: left;
+}
+.Amarillo {
+    color: rgb(217, 174, 33);
+    font: 40px Arial, sans-serif;
+    margin-left: 20px;
+}
